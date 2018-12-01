@@ -3,3 +3,13 @@
     bottom: 0px;
     left: 4%;
 }
+
+.customimage {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.customlink {
+    color: white;
+}
